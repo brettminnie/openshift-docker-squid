@@ -7,3 +7,5 @@ TODO: Guide users through getting your code up and running on their own system. 
 2. Install pre-commit `pip3 install pre-commit`
 3. Enable pre-commit hooks `pre-commit install`
 4. `docker/podman build -t squid .`
+
+[![ci](https://github.com/brettminnie/openshift-docker-squid/actions/workflows/main.yml/badge.svg)](https://github.com/brettminnie/openshift-docker-squid/actions/workflows/main.yml)
